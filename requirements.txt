@@ -1,0 +1,14 @@
+paramiko
+pylint
+pytest
+configparser
+apache_log_parser
+dash
+dash_core_components
+dash_html_components
+plotly
+pandas
+datetime
+dash_bootstrap_components
+ipdata
+gunicorn
